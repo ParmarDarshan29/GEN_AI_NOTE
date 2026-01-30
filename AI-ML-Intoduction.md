@@ -33,7 +33,7 @@ It is called **artificial** because this intelligence is **man-made**, unlike **
 
 ---
 
-##  Definition (Academic)
+##  Definition
 
 > **Artificial Intelligence** is a branch of computer science that focuses on developing machines or software capable of **thinking, learning, and making decisions** similar to human intelligence.
 
@@ -67,7 +67,7 @@ To understand this, let’s first look at **how humans learn**.
 
 ---
 
-## How Humans Learn (Real-Life Analogy)
+## How Humans Learn
 
 - A baby learns by observing others
 - A dog recognizes its owner through experience
@@ -166,5 +166,8 @@ Understanding AI is no longer optional — it’s essential.
 
 ---
 
-![AI Illustration](AI.png)
+<!-- Example: Centered image in markdown -->
+<p align="center">
+  <img src="images/your-image.png" alt="Description" width="400"/>
+</p>
 
